@@ -1,25 +1,25 @@
 # Community Board 
 Community Board lists the best selling broadway shows in Feburary 2024
 
-The following **required** functionality is completed:
+**The following **required** functionality is completed:**
 
 [x] The app has a cohesive, unique theme for events or resources
 
 [x] At least 10 unique resources or events are displayed in a responsive card format
 
-The following **optional** functionality are implemented:
+**The following **optional** functionality are implemented:**
 
 [x] Cards contain buttons or links to related resources
 
 [x] Site is responsive for both desktop and mobile formats
 
-**Here's how Community Board looks:**
+# Here's how Community Board looks:**
 
-Desktop:
+**Desktop:**
 
 <img src='/src/assets/CommunityBoard.gif' title='Community Board Desktop Gif' width='' alt='Community Board Desktop Gif' />
 
-Moblie:
+**Moblie:**
 
 <img src='src/assets/CBMoblie.gif' title='Community Board Mobile Gif' width='' alt='Community Board Mobile Gif' />
 
