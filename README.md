@@ -13,6 +13,7 @@ Moblie:
 
 
 **Goals**
+
 [x] Initialize a new React application with Vite
 
 [x] Create a functional React component
@@ -22,6 +23,7 @@ Moblie:
 [x] Apply CSS styling to React components
 
 **Required Features**
+
 [x] Create a unique theme for events or resources relevant to a specific community
 
 [x] Display at least 10 unique resources or events in a responsive card format
