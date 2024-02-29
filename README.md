@@ -1,6 +1,18 @@
 # Community Board 
 Community Board lists the best selling broadway shows in Feburary 2024
 
+The following **required** functionality is completed:
+
+[x] The app has a cohesive, unique theme for events or resources
+
+[x] At least 10 unique resources or events are displayed in a responsive card format
+
+The following **optional** functionality are implemented:
+
+[x] Cards contain buttons or links to related resources
+
+[x] Site is responsive for both desktop and mobile formats
+
 **Here's how Community Board looks:**
 
 Desktop:
@@ -10,23 +22,6 @@ Desktop:
 Moblie:
 
 <img src='src/assets/CBMoblie.gif' title='Community Board Mobile Gif' width='' alt='Community Board Mobile Gif' />
-
-
-**Goals**
-
-[x] Initialize a new React application with Vite
-
-[x] Create a functional React component
-
-[x] Define and pass props to components
-
-[x] Apply CSS styling to React components
-
-**Required Features**
-
-[x] Create a unique theme for events or resources relevant to a specific community
-
-[x] Display at least 10 unique resources or events in a responsive card format
 
 # Getting started
 **Install dependencies**
