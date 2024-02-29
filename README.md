@@ -1,7 +1,7 @@
 # Community Board 
 Community Board lists the best selling broadway shows in Feburary 2024
 
-**Here's how Calendar looks:**
+**Here's how Community Board looks:**
 
 Desktop:
 
