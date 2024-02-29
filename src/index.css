@@ -46,7 +46,6 @@ body {
   width: 150px;
 }
 
-
 .Button {
   background-color: rgb(233, 224, 224);
   width: 100px;
@@ -78,7 +77,6 @@ a{
   flex-wrap: wrap;
   justify-content: space-evenly;
   align-content: space-evenly;
-
 }
 
 h1 {
@@ -98,8 +96,8 @@ h1 {
   h1 {
     font-size: 1.5em;
     line-height: 1.1;
-    
   }
+
   .App{
     background-image: url(src/assets/Untitled_Artwork.png);
     background-size: 100% 100%;
@@ -122,7 +120,6 @@ h1 {
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-content: space-evenly;
-  
   }
 
   .Card{
